@@ -3,6 +3,7 @@
 The coco_classes.pickle file contains all the class labels of COCO Dataset.
 
 The pickling_classes.py file contains the script to create a pickle of a list of all class labels.
+(This script need not be executed as it's product - coco_classes.pickle is already included in this repo)
 
 The detect_image.py is main code, where in we use any of the pre-trained model out of the following 3 - 
 1. fasterrcnn_resnet50_fpn
