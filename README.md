@@ -15,3 +15,8 @@ We use any of these models and detect/predict object(s) on an input image which 
 For running the detect_image.py program, the following command with the specified arguments needs to be passed.
  
  >python detect_image.py --model <model_name>  --image <img_path> --labels <path to file that  contains class_labels(pickled)>
+
+
+
+https://user-images.githubusercontent.com/105056921/185141821-5fbfc96e-7830-4fbd-9beb-51b12fe3519f.mp4
+
